@@ -7,7 +7,7 @@
 
 PhishGuard analyses **URLs, emails and SMS messages**, gives each one a **risk score from 0 to 100**, and explains every red flag it found. Everything runs in the browser, so nothing you paste is uploaded anywhere.
 
-🔗 **Live demo:** https://YOUR-USERNAME.github.io/phishguard/
+🔗 **Live demo:** https://tambesujal406-design.github.io/phishguard/
 
 ![PhishGuard screenshot](docs/screenshot.png)
 
@@ -59,7 +59,7 @@ phishguard/
 ## 🚀 Run it locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/phishguard.git
+git clone https://github.com/tambesujal406-design/phishguard.git
 cd phishguard
 # just open index.html in your browser, or:
 python -m http.server 8000   # then visit http://localhost:8000
