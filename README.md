@@ -9,7 +9,7 @@ PhishGuard analyses **URLs, emails and SMS messages**, gives each one a **risk s
 
 🔗 **Live demo:** https://tambesujal406-design.github.io/phishguard/
 
-![PhishGuard screenshot](docs/screenshot.png)
+![PhishGuard screenshot](screenshot.png)
 
 ## ✨ Features
 
